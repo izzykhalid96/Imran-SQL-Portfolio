@@ -22,3 +22,6 @@ This project identifies the **unluckiest football players** of the 2023/2024 sea
 
 ## My Tableau Portfolio
 - https://public.tableau.com/app/profile/imran.khalid1687/viz/MyDataanalystPortfolio/Sheet1
+
+## Where I got my data from: 
+https://www.kaggle.com/datasets/orkunaktas/premier-league-all-players-stats-2324
