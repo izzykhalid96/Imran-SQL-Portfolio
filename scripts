@@ -1,0 +1,9 @@
+--How I find the Top 10 unluckiest players in Premier League
+
+SELECT Player, Team, Gls, xG, round(Gls-xG,2) AS luck_score FROM pl_player24
+ORDER BY luck_score DESC
+LIMIT 10 ;
+
+--How I find the average luck score across the league
+
+SELECT avg(Gls-xG) AS luck_score FROM pl_player24;
