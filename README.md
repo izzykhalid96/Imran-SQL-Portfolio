@@ -20,3 +20,5 @@ This project identifies the **unluckiest football players** of the 2023/2024 sea
 - `scripts/`: Contains the SQL query (`unluckiest_players.sql`).
 - `visuals/`: Contains a screenshot of the Tableau dashboard.
 
+## My Tableau Portfolio
+- https://public.tableau.com/app/profile/imran.khalid1687/viz/MyDataanalystPortfolio/Sheet1
